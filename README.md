@@ -1,0 +1,2 @@
+# Kalvium_data_analyst
+ELECTION RESULTS 2024 ANALYSIS
